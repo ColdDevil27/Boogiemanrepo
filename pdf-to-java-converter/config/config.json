@@ -1,0 +1,15 @@
+{
+  "dpi": 300,
+  "model": "gemini-1.5-pro",
+  "temperature": 0.1,
+  "max_tokens": 4000,
+  "workers": 4,
+  "validate": true,
+  "output_formats": ["java", "html", "json"],
+  "cache_ocr": true,
+  "contrast_factor": 2.5,
+  "max_pages": 50,
+  "timeout": 60,
+  "retry_attempts": 3,
+  "retry_delay": 2.0
+}
