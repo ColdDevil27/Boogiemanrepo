@@ -1,0 +1,1 @@
+variables, data types, operators, control structures (if-else, loops), arrays, methods, classes, objects, inheritance, polymorphism, exception handling, file I/O
