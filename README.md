@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository serves as my personal portfolio of programming projects and code experiments. I use this space to publicly store and showcase the various programs and applications I develop.
+This repository serves as a part my personal portfolio of programming projects and code experiments. I use this space to publicly store and showcase the various programs and applications I develop.
 
 ## Purpose and Scope
 
@@ -15,10 +15,6 @@ I believe in the principles of open source development and transparency. By maki
 - Enable others to learn from my work
 - Foster collaboration and feedback from others
 - Contribute back to the developer community that made me interested in this space.
-
-## Repository Structure
-
-This collection includes a variety of projects across different programming languages and domains. Each project is organized in its own directory with appropriate documentation and usage instructions.
 
 ## Important Notes
 
